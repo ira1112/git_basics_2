@@ -13,3 +13,6 @@ git checkout
 touch
 git add
 git commit -m
+
+git merge
+git diff
